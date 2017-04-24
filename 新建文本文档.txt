@@ -1,0 +1,5 @@
+1:pom中的jar包如果在Tomcat中的lib中存在，直接引用Tomcat中lib的jar
+	查看服务器内存是否够用
+	tomcat扩容
+2:字符串拼接使用StringBuffer
+3:使用占位符
